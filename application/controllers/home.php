@@ -18,4 +18,13 @@ class Home extends CI_Controller {
         $this->load->view('account_view');
 
     }
+
+    public function sounds(){
+        $data['title'] = 'Sample Cutz';
+
+        $this->load->view('templates/header', $data);
+
+        $this->load->view('sounds_view');
+
+    }
 }
