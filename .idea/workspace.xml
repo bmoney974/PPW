@@ -2,17 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91eca425-8272-454e-943d-60e2dcac7672" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/learning_view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/single_topic_view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/single_video_view.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/home.php" afterPath="$PROJECT_DIR$/application/controllers/home.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/sound_list_view.php" afterPath="$PROJECT_DIR$/application/views/sound_list_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/home_view.php" afterPath="$PROJECT_DIR$/application/views/home_view.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PPW.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424546236627" ignored="false" />
-    <file path="/home.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424661029580" ignored="false" />
+    <file path="/home.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424662235681" ignored="false" />
     <file path="/home_model.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424551152480" ignored="false" />
-    <file path="/home_view.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424647609409" ignored="false" />
+    <file path="/home_view.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424661769017" ignored="false" />
     <file path="/header.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424648094217" ignored="false" />
     <file path="/styles.css" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424554056691" ignored="false" />
     <file path="/head_view.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424653061363" ignored="false" />
@@ -23,6 +24,7 @@
     <file path="/single_genre_view.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424656783776" ignored="false" />
     <file path="/sound_list_view.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424657987531" ignored="false" />
     <file path="/learning_view.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424661002782" ignored="false" />
+    <file path="/single_topic_view.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424662734062" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +44,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/controllers/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="35" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.90275526">
+            <state line="62" column="39" selection-start="1333" selection-end="1333" vertical-scroll-proportion="-20.083334">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single_topic_view.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/single_topic_view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="54" column="50" selection-start="2604" selection-end="2604" vertical-scroll-proportion="-11.958333">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single_video_view.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/views/single_video_view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -70,7 +95,7 @@
       <file leaf-file-name="learning_view.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/learning_view.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="37" selection-start="1829" selection-end="1829" vertical-scroll-proportion="-33.125">
+            <state line="13" column="62" selection-start="0" selection-end="2050" vertical-scroll-proportion="-8.125">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
@@ -86,7 +111,7 @@
       <file leaf-file-name="single_genre_view.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/single_genre_view.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="35" selection-start="0" selection-end="2048" vertical-scroll-proportion="-7.5">
+            <state line="8" column="10" selection-start="227" selection-end="227" vertical-scroll-proportion="-5.0">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
@@ -138,7 +163,7 @@
       <file leaf-file-name="home_view.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/home_view.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="302" column="40" selection-start="471" selection-end="11938" vertical-scroll-proportion="-148.125">
+            <state line="405" column="50" selection-start="16014" selection-end="16014" vertical-scroll-proportion="-10.791667">
               <folding />
             </state>
           </provider>
@@ -164,15 +189,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/templates/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="101" selection-start="406" selection-end="406" vertical-scroll-proportion="-5.625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -191,13 +207,11 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/application/config/routes.php" />
         <option value="$PROJECT_DIR$/application/models/home_model.php" />
         <option value="$PROJECT_DIR$/Sample_Cutz/assets/css/styles.css" />
         <option value="$PROJECT_DIR$/application/config/autoload.php" />
         <option value="$PROJECT_DIR$/application/config/constants.php" />
         <option value="$PROJECT_DIR$/application/views/templates/footer.php" />
-        <option value="$PROJECT_DIR$/application/views/home_view.php" />
         <option value="$PROJECT_DIR$/application/views/templates/header.php" />
         <option value="$PROJECT_DIR$/application/controllers/account.php" />
         <option value="$PROJECT_DIR$/application/views/templates/head_view.php" />
@@ -206,7 +220,9 @@
         <option value="$PROJECT_DIR$/application/views/single_genre_view.php" />
         <option value="$PROJECT_DIR$/application/views/sound_list_view.php" />
         <option value="$PROJECT_DIR$/application/views/learning_view.php" />
+        <option value="$PROJECT_DIR$/application/views/home_view.php" />
         <option value="$PROJECT_DIR$/application/controllers/home.php" />
+        <option value="$PROJECT_DIR$/application/views/single_topic_view.php" />
       </list>
     </option>
   </component>
@@ -464,20 +480,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/config/constants.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="0" selection-start="1560" selection-end="1560" vertical-scroll-proportion="0.8450947">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="1" selection-start="510" selection-end="510" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="66" column="32" selection-start="1932" selection-end="1932" vertical-scroll-proportion="0.33333334">
@@ -523,20 +525,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/single_genre_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="35" selection-start="0" selection-end="2048" vertical-scroll-proportion="-7.5">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#2;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#3;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#4;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/templates/head_view.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="45" selection-start="123" selection-end="123" vertical-scroll-proportion="-1.25">
@@ -550,13 +538,6 @@
           <folding>
             <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/home_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="302" column="40" selection-start="471" selection-end="11938" vertical-scroll-proportion="-148.125">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -610,7 +591,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/learning_view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="37" selection-start="1829" selection-end="1829" vertical-scroll-proportion="-33.125">
+        <state line="13" column="62" selection-start="0" selection-end="2050" vertical-scroll-proportion="-8.125">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#2;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#3;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#4;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="405" column="50" selection-start="16014" selection-end="16014" vertical-scroll-proportion="-10.791667">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/single_genre_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="10" selection-start="227" selection-end="227" vertical-scroll-proportion="-5.0">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
@@ -624,7 +626,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="35" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.90275526">
+        <state line="62" column="39" selection-start="1333" selection-end="1333" vertical-scroll-proportion="-20.083334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/single_topic_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="50" selection-start="2604" selection-end="2604" vertical-scroll-proportion="-11.958333">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/single_video_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

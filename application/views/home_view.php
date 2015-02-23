@@ -370,9 +370,10 @@
                 <table  cellpadding="0" cellspacing="0" border="0">
                     <tr>
                         <td>
-                            Video Tutorial
+                            Making Better Beats
                         </td>
                     </tr>
+                    <tr><td height="10"></td></tr>
                     <tr>
                         <td>
                             <img src="http://samplecutz.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-22-at-5.29.04-PM.png" width="250" height="auto"/>
@@ -384,12 +385,13 @@
                 <table  cellpadding="0" cellspacing="0" border="0">
                     <tr>
                         <td>
-                            Video Tutorial
+                            Logic Pro from A to Z
                         </td>
                     </tr>
+                    <tr><td height="10"></td></tr>
                     <tr>
                         <td>
-                            <img src="http://samplecutz.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-22-at-5.29.04-PM.png" width="250" height="auto" />
+                            <img src="http://samplecutz.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-22-at-5.25.48-PM.png" width="250" height="auto" />
                         </td>
                     </tr>
                 </table>
@@ -398,12 +400,13 @@
                 <table  cellpadding="0" cellspacing="0" border="0">
                     <tr>
                         <td>
-                            Video Tutorial
+                            Using Native Instruments Machine
                         </td>
                     </tr>
+                    <tr><td height="10"></td></tr>
                     <tr>
                         <td>
-                            <img src="http://samplecutz.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-22-at-5.29.04-PM.png" width="250" height="auto" />
+                            <img src="http://samplecutz.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-22-at-5.24.35-PM.png" width="250" height="auto" />
                         </td>
                     </tr>
                 </table>

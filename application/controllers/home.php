@@ -54,4 +54,13 @@ class Home extends CI_Controller {
         $this->load->view('learning_view');
 
     }
+
+    public function topics(){
+        $data['title'] = 'Sample Cutz';
+
+        $this->load->view('templates/header', $data);
+
+        $this->load->view('single_topic_view');
+
+    }
 }
