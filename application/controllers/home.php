@@ -36,4 +36,22 @@ class Home extends CI_Controller {
         $this->load->view('single_genre_view');
 
     }
+
+    public function sound_list(){
+        $data['title'] = 'Sample Cutz';
+
+        $this->load->view('templates/header', $data);
+
+        $this->load->view('sound_list_view');
+
+    }
+
+    public function learning(){
+        $data['title'] = 'Sample Cutz';
+
+        $this->load->view('templates/header', $data);
+
+        $this->load->view('learning_view');
+
+    }
 }
