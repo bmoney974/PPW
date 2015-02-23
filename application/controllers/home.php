@@ -5,9 +5,17 @@ class Home extends CI_Controller {
         $data['title'] = 'Sample Cutz';
 
         $this->load->view('templates/header', $data);
-        $this->load->model('home_model');
-        $data['msg']=$this->home_model->hello();
+
         $this->load->view('home_view' , $data);
         $this->load->view('templates/footer');
+    }
+
+    public function account(){
+        $data['title'] = 'Sample Cutz';
+
+        $this->load->view('templates/header', $data);
+
+        $this->load->view('account_view');
+
     }
 }

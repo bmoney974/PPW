@@ -1,6 +1,7 @@
 <div class="row nav_row"><!-- nav -->
     <ul  class="nav nav-pills nav_bar">
-    <li role="presentation" class="active"><a href="#">My Account</a></li>
+    <li role="presentation" ><a href="#">Home</a></li>
+    <li role="presentation" ><a href="#">My Account</a></li>
     <li  role="presentation"><a href="#">Sound Library</a></li>
     <li <li role="presentation"><a href="#">Learning Center</a></li>
     <li <li role="presentation"><a href="#">About Us</a></li>

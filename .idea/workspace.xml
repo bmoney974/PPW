@@ -2,217 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91eca425-8272-454e-943d-60e2dcac7672" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/PPW.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/account.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/templates/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/templates/head_view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/templates/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/home.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/home_model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/home_view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/assets/css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/cache/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/cache/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/config/autoload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/config/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/config/constants.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/config/database.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/config/doctypes.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/config/foreign_chars.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/config/hooks.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/config/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/config/migration.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/config/mimes.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/config/profiler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/config/routes.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/config/smileys.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/config/user_agents.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/controllers/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/controllers/welcome.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/core/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/errors/error_404.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/errors/error_db.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/errors/error_general.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/errors/error_php.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/errors/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/helpers/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/hooks/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/language/english/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/language/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/libraries/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/logs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/models/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/third_party/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/views/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/application/views/welcome_message.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/core/Benchmark.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/core/CodeIgniter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/core/Common.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/core/Config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/core/Controller.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/core/Exceptions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/core/Hooks.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/core/Input.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/core/Lang.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/core/Loader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/core/Model.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/core/Output.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/core/Router.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/core/Security.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/core/URI.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/core/Utf8.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/core/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/DB.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/DB_active_rec.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/DB_cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/DB_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/DB_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/DB_result.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/DB_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/cubrid/cubrid_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/cubrid/cubrid_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/cubrid/cubrid_result.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/cubrid/cubrid_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/cubrid/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/mssql/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/mssql/mssql_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/mssql/mssql_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/mssql/mssql_result.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/mssql/mssql_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/mysql/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/mysql/mysql_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/mysql/mysql_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/mysql/mysql_result.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/mysql/mysql_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/mysqli/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/mysqli/mysqli_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/mysqli/mysqli_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/mysqli/mysqli_result.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/mysqli/mysqli_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/oci8/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/oci8/oci8_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/oci8/oci8_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/oci8/oci8_result.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/oci8/oci8_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/odbc/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/odbc/odbc_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/odbc/odbc_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/odbc/odbc_result.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/odbc/odbc_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/pdo/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/pdo/pdo_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/pdo/pdo_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/pdo/pdo_result.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/pdo/pdo_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/postgre/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/postgre/postgre_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/postgre/postgre_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/postgre/postgre_result.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/postgre/postgre_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/sqlite/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/sqlite/sqlite_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/sqlite/sqlite_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/sqlite/sqlite_result.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/sqlite/sqlite_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/sqlsrv/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/sqlsrv/sqlsrv_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/sqlsrv/sqlsrv_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/sqlsrv/sqlsrv_result.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/drivers/sqlsrv/sqlsrv_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/database/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/fonts/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/fonts/texb.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/helpers/array_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/helpers/captcha_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/helpers/cookie_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/helpers/date_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/helpers/directory_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/helpers/download_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/helpers/email_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/helpers/file_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/helpers/form_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/helpers/html_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/helpers/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/helpers/inflector_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/helpers/language_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/helpers/number_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/helpers/path_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/helpers/security_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/helpers/smiley_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/helpers/string_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/helpers/text_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/helpers/typography_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/helpers/url_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/helpers/xml_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/language/english/calendar_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/language/english/date_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/language/english/db_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/language/english/email_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/language/english/form_validation_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/language/english/ftp_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/language/english/imglib_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/language/english/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/language/english/migration_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/language/english/number_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/language/english/profiler_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/language/english/unit_test_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/language/english/upload_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/language/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Cache/Cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Cache/drivers/Cache_apc.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Cache/drivers/Cache_dummy.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Cache/drivers/Cache_file.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Cache/drivers/Cache_memcached.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Cache/drivers/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Cache/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Calendar.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Cart.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Driver.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Email.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Encrypt.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Form_validation.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Ftp.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Image_lib.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Javascript.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Log.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Migration.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Pagination.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Parser.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Profiler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Session.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Sha1.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Table.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Trackback.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Typography.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Unit_test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Upload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/User_agent.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Xmlrpc.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Xmlrpcs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/Zip.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/javascript/Jquery.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sample_Cutz/system/libraries/javascript/index.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/account_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/account.php" afterPath="$PROJECT_DIR$/application/controllers/account.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/templates/head_view.php" afterPath="$PROJECT_DIR$/application/views/templates/head_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/home.php" afterPath="$PROJECT_DIR$/application/controllers/home.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PPW.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424546236627" ignored="false" />
-    <file path="/home.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424553610409" ignored="false" />
+    <file path="/home.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424650932681" ignored="false" />
     <file path="/home_model.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424551152480" ignored="false" />
     <file path="/home_view.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424647609409" ignored="false" />
     <file path="/header.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424648094217" ignored="false" />
     <file path="/styles.css" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424554056691" ignored="false" />
-    <file path="/head_view.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424648508208" ignored="false" />
+    <file path="/head_view.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424653061363" ignored="false" />
     <file path="/footer.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424646517591" ignored="false" />
-    <file path="/account.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424650396445" ignored="false" />
+    <file path="/account.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424650466222" ignored="false" />
+    <file path="/account_view.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424654458682" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,28 +39,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/config/config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="1" selection-start="510" selection-end="510" vertical-scroll-proportion="0.33333334">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="home.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/controllers/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="8" selection-start="313" selection-end="351" vertical-scroll-proportion="-6.25">
+            <state line="18" column="0" selection-start="439" selection-end="439" vertical-scroll-proportion="-11.25">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="account.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/controllers/account.php">
+      <file leaf-file-name="home_view.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/home_view.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
+            <state line="2" column="0" selection-start="44" selection-end="109" vertical-scroll-proportion="-1.25">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account_view.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/views/account_view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="50" selection-start="613" selection-end="613" vertical-scroll-proportion="0.4140625">
+              <folding>
+                <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head_view.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/templates/head_view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="45" selection-start="123" selection-end="123" vertical-scroll-proportion="-1.25">
               <folding />
             </state>
           </provider>
@@ -263,92 +81,6 @@
         <entry file="file://$PROJECT_DIR$/application/views/templates/header.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="9" column="101" selection-start="406" selection-end="406" vertical-scroll-proportion="-5.625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="autoload.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="32" selection-start="1932" selection-end="1932" vertical-scroll-proportion="0.33333334">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/templates/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="22" selection-start="23" selection-end="23" vertical-scroll-proportion="-0.625">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/assets/css/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="27" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home_view.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/home_view.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="366" column="58" selection-start="14382" selection-end="14382" vertical-scroll-proportion="-1.0612245">
-              <folding>
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#1;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#audio#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#2;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#1;n#tr#1;n#table#0;n#td#0;n#tr#2;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#td#1;n#tr#1;n#table#0;n#td#0;n#tr#2;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#3;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#1;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#3;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#audio#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#3;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#1;n#tr#1;n#table#0;n#td#0;n#tr#3;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#td#1;n#tr#1;n#table#0;n#td#0;n#tr#3;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#4;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#1;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#4;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#audio#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#4;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#1;n#tr#1;n#table#0;n#td#0;n#tr#4;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#td#1;n#tr#1;n#table#0;n#td#0;n#tr#4;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#5;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#1;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#5;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#audio#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#5;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#1;n#tr#1;n#table#0;n#td#0;n#tr#5;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#td#1;n#tr#1;n#table#0;n#td#0;n#tr#5;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#1;n#td#0;n#tr#5;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#1;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#1;n#td#0;n#tr#5;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#audio#0;n#td#0;n#tr#1;n#table#1;n#td#0;n#tr#5;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#1;n#tr#1;n#table#1;n#td#0;n#tr#5;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#td#1;n#tr#1;n#table#1;n#td#0;n#tr#5;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#form#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h3#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="head_view.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/templates/head_view.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="52" selection-start="338" selection-end="338" vertical-scroll-proportion="-3.125">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home_model.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/models/home_model.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="1" selection-start="94" selection-end="94" vertical-scroll-proportion="-3.75">
               <folding />
             </state>
           </provider>
@@ -379,13 +111,14 @@
         <option value="$PROJECT_DIR$/application/models/home_model.php" />
         <option value="$PROJECT_DIR$/Sample_Cutz/assets/css/styles.css" />
         <option value="$PROJECT_DIR$/application/config/autoload.php" />
-        <option value="$PROJECT_DIR$/application/controllers/home.php" />
         <option value="$PROJECT_DIR$/application/config/constants.php" />
         <option value="$PROJECT_DIR$/application/views/templates/footer.php" />
         <option value="$PROJECT_DIR$/application/views/home_view.php" />
         <option value="$PROJECT_DIR$/application/views/templates/header.php" />
-        <option value="$PROJECT_DIR$/application/views/templates/head_view.php" />
         <option value="$PROJECT_DIR$/application/controllers/account.php" />
+        <option value="$PROJECT_DIR$/application/controllers/home.php" />
+        <option value="$PROJECT_DIR$/application/views/templates/head_view.php" />
+        <option value="$PROJECT_DIR$/application/views/account_view.php" />
       </list>
     </option>
   </component>
@@ -583,13 +316,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="22" width="1120" height="810" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22905028" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22905028" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -714,13 +447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/assets/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="27" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/templates/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="22" selection-start="23" selection-end="23" vertical-scroll-proportion="-0.625">
@@ -731,52 +457,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/home_model.php">
+    <entry file="file://$PROJECT_DIR$/application/assets/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="1" selection-start="94" selection-end="94" vertical-scroll-proportion="-3.75">
+        <state line="0" column="0" selection-start="0" selection-end="27" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/home_view.php">
+    <entry file="file://$PROJECT_DIR$/application/models/home_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="366" column="58" selection-start="14382" selection-end="14382" vertical-scroll-proportion="-1.0612245">
-          <folding>
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#1;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#audio#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#2;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#1;n#tr#1;n#table#0;n#td#0;n#tr#2;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#td#1;n#tr#1;n#table#0;n#td#0;n#tr#2;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#3;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#1;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#3;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#audio#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#3;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#1;n#tr#1;n#table#0;n#td#0;n#tr#3;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#td#1;n#tr#1;n#table#0;n#td#0;n#tr#3;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#4;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#1;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#4;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#audio#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#4;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#1;n#tr#1;n#table#0;n#td#0;n#tr#4;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#td#1;n#tr#1;n#table#0;n#td#0;n#tr#4;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#5;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#1;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#5;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#audio#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#5;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#1;n#tr#1;n#table#0;n#td#0;n#tr#5;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#td#1;n#tr#1;n#table#0;n#td#0;n#tr#5;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#1;n#td#0;n#tr#5;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#1;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#1;n#td#0;n#tr#5;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#audio#0;n#td#0;n#tr#1;n#table#1;n#td#0;n#tr#5;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#1;n#tr#1;n#table#1;n#td#0;n#tr#5;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#td#1;n#tr#1;n#table#1;n#td#0;n#tr#5;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#form#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/templates/head_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="52" selection-start="338" selection-end="338" vertical-scroll-proportion="-3.125">
+        <state line="6" column="1" selection-start="94" selection-end="94" vertical-scroll-proportion="0.1458671">
           <folding />
         </state>
       </provider>
@@ -790,15 +480,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="8" selection-start="313" selection-end="351" vertical-scroll-proportion="-6.25">
+        <state line="18" column="0" selection-start="439" selection-end="439" vertical-scroll-proportion="-11.25">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/account.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
+        <state line="3" column="0" selection-start="78" selection-end="263" vertical-scroll-proportion="0.0703125">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="44" selection-end="109" vertical-scroll-proportion="-1.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/templates/head_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="45" selection-start="123" selection-end="123" vertical-scroll-proportion="-1.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/account_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="50" selection-start="613" selection-end="613" vertical-scroll-proportion="0.4140625">
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
