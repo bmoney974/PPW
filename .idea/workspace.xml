@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91eca425-8272-454e-943d-60e2dcac7672" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/single_genre_view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/sounds_view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/sound_list_view.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/home.php" afterPath="$PROJECT_DIR$/application/controllers/home.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/single_genre_view.php" afterPath="$PROJECT_DIR$/application/views/single_genre_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/sounds_view.php" afterPath="$PROJECT_DIR$/application/views/sounds_view.php" />
     </list>
     <ignored path="PPW.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424546236627" ignored="false" />
-    <file path="/home.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424654598981" ignored="false" />
+    <file path="/home.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424656703170" ignored="false" />
     <file path="/home_model.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424551152480" ignored="false" />
     <file path="/home_view.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424647609409" ignored="false" />
     <file path="/header.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424648094217" ignored="false" />
@@ -19,7 +19,8 @@
     <file path="/footer.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424646517591" ignored="false" />
     <file path="/account.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424650466222" ignored="false" />
     <file path="/account_view.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424654458682" ignored="false" />
-    <file path="/sounds_view.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424656348918" ignored="false" />
+    <file path="/sounds_view.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424656673297" ignored="false" />
+    <file path="/single_genre_view.php" changelist="91eca425-8272-454e-943d-60e2dcac7672" time="1424656783776" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
       <file leaf-file-name="home.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/controllers/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="1" selection-start="623" selection-end="623" vertical-scroll-proportion="-18.125">
+            <state line="35" column="44" selection-start="792" selection-end="792" vertical-scroll-proportion="-21.875">
               <folding />
             </state>
           </provider>
@@ -51,7 +52,7 @@
       <file leaf-file-name="sounds_view.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/sounds_view.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="36" selection-start="1816" selection-end="1816" vertical-scroll-proportion="-16.666666">
+            <state line="13" column="45" selection-start="385" selection-end="385" vertical-scroll-proportion="-8.125">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
@@ -64,8 +65,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="single_genre_view.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="single_genre_view.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/single_genre_view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="19" selection-start="407" selection-end="407" vertical-scroll-proportion="-8.75">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#2;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#3;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#4;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sound_list_view.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/views/sound_list_view.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -129,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/application/config/config.php" />
         <option value="$PROJECT_DIR$/application/.htaccess" />
         <option value="$PROJECT_DIR$/Sample_Cutz/.htaccess" />
         <option value="$PROJECT_DIR$/application/config/routes.php" />
@@ -143,8 +159,9 @@
         <option value="$PROJECT_DIR$/application/controllers/account.php" />
         <option value="$PROJECT_DIR$/application/views/templates/head_view.php" />
         <option value="$PROJECT_DIR$/application/views/account_view.php" />
-        <option value="$PROJECT_DIR$/application/controllers/home.php" />
         <option value="$PROJECT_DIR$/application/views/sounds_view.php" />
+        <option value="$PROJECT_DIR$/application/controllers/home.php" />
+        <option value="$PROJECT_DIR$/application/views/single_genre_view.php" />
       </list>
     </option>
   </component>
@@ -242,28 +259,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PPW" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PPW" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -424,13 +419,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="36" selection-start="1430" selection-end="1430" vertical-scroll-proportion="-18.833334">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Sample_Cutz/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.33333334">
@@ -513,13 +501,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="1" selection-start="623" selection-end="623" vertical-scroll-proportion="-18.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/home_view.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="0" selection-start="44" selection-end="109" vertical-scroll-proportion="-1.25">
@@ -529,7 +510,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/sounds_view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="36" selection-start="1816" selection-end="1816" vertical-scroll-proportion="-16.666666">
+        <state line="13" column="45" selection-start="385" selection-end="385" vertical-scroll-proportion="-8.125">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
@@ -541,7 +522,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="44" selection-start="792" selection-end="792" vertical-scroll-proportion="-21.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/single_genre_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="19" selection-start="407" selection-end="407" vertical-scroll-proportion="-8.75">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#2;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#3;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#4;n#table#0;n#div#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/sound_list_view.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />

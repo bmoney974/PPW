@@ -11,7 +11,7 @@
     <div class="row">
         <div class="col-md-12"><!-- bread crumbs -->
             <ol class="breadcrumb">
-                <li><a href="#">Genres</a></li>
+                <li><a href="#" class="active">Genres</a></li>
 
             </ol>
         </div><!-- bread crumbs end -->
