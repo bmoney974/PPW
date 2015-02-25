@@ -11,8 +11,8 @@
     <div class="row">
         <div class="col-md-12"><!-- bread crumbs -->
             <ol class="breadcrumb">
-                <li><a href="#" class="active">Topics</a></li>
-                <li><a href="#" class="active">Recording</a></li>
+                <li><a href="<?php echo base_url("home/learning") ?>" class="active">Topics</a></li>
+                <li><a href="" class="active">Recording</a></li>
 
             </ol>
         </div><!-- bread crumbs end -->
@@ -23,6 +23,7 @@
             <table width="600" align="center" cellpadding="10" cellspacing="0" border="0">
                 <tr>
                     <td>
+                        <a style="color:#000000;" href="<?php echo base_url("home/video") ?>" >
                         <table cellpadding="10" cellspacing="0" border="0" style="border:1px solid black; ;"><!-- video -->
                             <tr>
                                 <td style="padding-left: 10px;">
@@ -45,11 +46,13 @@
                                 </td>
                             </tr>
                         </table><!-- video end -->
+                        </a>
                     </td>
                 </tr>
                 <tr><td height="10"></td></tr>
                 <tr>
                     <td>
+                        <a style="color:#000000;" href="<?php echo base_url("home/video") ?>" >
                         <table cellpadding="10" cellspacing="0" border="0" style="border:1px solid black; ;"><!-- video -->
                             <tr>
                                 <td style="padding: 10px;">
@@ -72,6 +75,7 @@
                                 </td>
                             </tr>
                         </table><!-- video end -->
+                            </a>
                     </td>
                 </tr>
             </table>

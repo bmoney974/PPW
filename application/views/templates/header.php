@@ -5,6 +5,7 @@
     <title><?php echo $title; ?> </title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
 
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
 <style>
     body {
         background: url("http://www.vectorbg.net/wp-content/uploads/2011/08/metal-grill-texture.jpg");
@@ -68,6 +69,30 @@
     .nav_row {
         background-color: #99E2F2;
     }
+
+    .signUp_modal {
+        width:300px;
+        position:relative;
+        top:-350px;
+        background-color: #ffffff;
+        margin: 0px auto;
+
+    }
+
+    .signUp_table{
+        background-color: #ffffff;
+    }
+
+.modal_bg{
+    width:100%;
+    height:100%;
+    background-color: gray;
+    opacity: .5;
+}
+
+    .nav-pills :active{
+       background-color: #ffffff;
+   }
 
 </style>
 </head>

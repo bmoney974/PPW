@@ -11,7 +11,7 @@
     <div class="row">
         <div class="col-md-12"><!-- bread crumbs -->
             <ol class="breadcrumb">
-                <li><a href="#" class="active">Genres</a></li>
+                <li><a href="<?php echo base_url("home/sounds") ?>" class="active">Genres</a></li>
 
             </ol>
         </div><!-- bread crumbs end -->
@@ -22,36 +22,36 @@
              <table width="600" align="center" cellpadding="10" cellspacing="0" border="0">
                  <tr>
                      <td style="border:1px solid black; padding:10px;">
-                        <a href="#">
+                        <a href="<?php echo base_url("home/genre") ?>">
                             Alternative
                         </a>
                      </td>
                  </tr>
                  <tr>
                      <td style="border:1px solid black; padding:10px;">
-                         <a href="#">
+                         <a href="<?php echo base_url("home/genre") ?>">
                              Acoustic
                          </a>
                      </td>
                  </tr>
                  <tr>
                      <td style="border:1px solid black; padding:10px;">
-                         <a href="#">
+                         <a href="<?php echo base_url("home/genre") ?>">
                              Drum n Bass
                          </a>
                      </td>
                  </tr>
                  <tr>
                      <td style="border:1px solid black; padding:10px;">
-                         <a href="#">
+                         <a href="<?php echo base_url("home/genre") ?>">
                              Funk
                          </a>
                      </td>
                  </tr>
                  <tr>
                      <td style="border:1px solid black; padding:10px;">
-                         <a href="#">
-                             Hip Hop
+                         <a href="<?php echo base_url("home/genre") ?>">
+                             Rock
                          </a>
                      </td>
                  </tr>

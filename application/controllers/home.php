@@ -7,7 +7,7 @@ class Home extends CI_Controller {
         $this->load->view('templates/header', $data);
 
         $this->load->view('home_view' , $data);
-        $this->load->view('templates/footer');
+
     }
 
     public function account(){
@@ -37,7 +37,7 @@ class Home extends CI_Controller {
 
     }
 
-    public function sound_list(){
+    public function downloads(){
         $data['title'] = 'Sample Cutz';
 
         $this->load->view('templates/header', $data);
@@ -61,6 +61,15 @@ class Home extends CI_Controller {
         $this->load->view('templates/header', $data);
 
         $this->load->view('single_topic_view');
+
+    }
+
+    public function video(){
+        $data['title'] = 'Sample Cutz';
+
+        $this->load->view('templates/header', $data);
+
+        $this->load->view('single_video_view');
 
     }
 }

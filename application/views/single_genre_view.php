@@ -11,7 +11,7 @@
     <div class="row">
         <div class="col-md-12"><!-- bread crumbs -->
             <ol class="breadcrumb">
-                <li><a href="#">Genres</a></li>
+                <li><a href="<?php echo base_url("home/sounds") ?>">Genres</a></li>
                 <li><a href="#">Rock</a></li>
 
             </ol>
@@ -23,35 +23,35 @@
             <table width="600" align="center" cellpadding="10" cellspacing="0" border="0">
                 <tr>
                     <td style="border:1px solid black; padding:10px;">
-                        <a href="#">
-                            Alternative
+                        <a href="<?php echo base_url("home/downloads") ?>">
+                            Ambient
                         </a>
                     </td>
                 </tr>
                 <tr>
                     <td style="border:1px solid black; padding:10px;">
-                        <a href="#">
+                        <a href="<?php echo base_url("home/downloads") ?>">
                             Drums
                         </a>
                     </td>
                 </tr>
                 <tr>
                     <td style="border:1px solid black; padding:10px;">
-                        <a href="#">
+                        <a href="<?php echo base_url("home/downloads") ?>">
                             Guitars
                         </a>
                     </td>
                 </tr>
                 <tr>
                     <td style="border:1px solid black; padding:10px;">
-                        <a href="#">
+                        <a href="<?php echo base_url("home/downloads") ?>">
                             Pianos
                         </a>
                     </td>
                 </tr>
                 <tr>
                     <td style="border:1px solid black; padding:10px;">
-                        <a href="#">
+                        <a href="<?php echo base_url("home/downloads") ?>">
                             Strings
                         </a>
                     </td>
