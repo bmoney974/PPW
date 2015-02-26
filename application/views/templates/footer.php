@@ -14,6 +14,16 @@
     });
 </script>
 
+<script>
+    $(document).ready(function(){
+        $(".signUp_modal_home").hide();
+
+    });
+    $(".download_home").click(function(){
+        $(".signUp_modal_home").toggle(500);
+    });
+</script>
+
 </body>
 
 </html>

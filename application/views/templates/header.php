@@ -41,7 +41,8 @@
     }
     .dl_list_container {
         margin-top:30px;
-        margin-left:40px
+        margin-left:40px;
+        z-index:101;
 
     }
     .signUp_continer {
@@ -76,6 +77,17 @@
         top:-350px;
         background-color: #ffffff;
         margin: 0px auto;
+        z-index: 102;
+
+    }
+
+    .signUp_modal_home {
+        width:300px;
+        position:relative;
+        top:-650px;
+        background-color: #ffffff;
+        margin: 0px auto;
+        z-index: 102;
 
     }
 
