@@ -1,6 +1,6 @@
 <body>
 <div class="container main_wrapper ">
-    <?php $this->load->view('templates/head_view'); ?><!-- nav -->
+
 
     <div class="row">
         <div class="col-md-12">
@@ -73,5 +73,5 @@
         </div>
     </div>
 
-  <?php   $this->load->view('templates/footer'); ?><!-- footer -->
+
 </div>

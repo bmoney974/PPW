@@ -7,7 +7,7 @@ class Home extends CI_Controller {
         $this->load->view('templates/header', $data);
 
         $this->load->view('home_view' , $data);
-
+d
     }
 
     public function account(){
